@@ -18,3 +18,10 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
+
+//some
+//changes (just this text)
+//have been added
+//according
+//to
+//assignment
